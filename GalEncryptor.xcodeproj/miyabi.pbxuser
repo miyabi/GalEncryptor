@@ -1,0 +1,327 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GalEncryptorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {923, 700}}";
+			sepNavSelRange = "{580, 20}";
+			sepNavVisRange = "{0, 609}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GalEncryptorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1235}}";
+			sepNavSelRange = "{2882, 0}";
+			sepNavVisRange = "{0, 2094}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GalEncryptor */ = {
+		activeExec = 0;
+		executables = (
+			6D35182B11DDCB69006EA7A9 /* GalEncryptor */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GalEncryptorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {923, 700}}";
+			sepNavSelRange = "{791, 44}";
+			sepNavVisRange = "{0, 842}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {923, 3198}}";
+			sepNavSelRange = "{5368, 0}";
+			sepNavVisRange = "{4674, 890}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6D35182B11DDCB69006EA7A9 /* GalEncryptor */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GalEncryptor */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GalEncryptor */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 6D35184111DDCB6F006EA7A9 /* Code sense */;
+		executables = (
+			6D35182B11DDCB69006EA7A9 /* GalEncryptor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					745,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299748201;
+			PBXWorkspaceStateSaveDate = 299748201;
+		};
+		perUserProjectItems = {
+			6D35192811DDD7D4006EA7A9 /* PlistBookmark */ = 6D35192811DDD7D4006EA7A9 /* PlistBookmark */;
+			6D35192911DDD7D4006EA7A9 /* PBXTextBookmark */ = 6D35192911DDD7D4006EA7A9 /* PBXTextBookmark */;
+			6D35192A11DDD7D4006EA7A9 /* PBXTextBookmark */ = 6D35192A11DDD7D4006EA7A9 /* PBXTextBookmark */;
+			6D35192B11DDD7D4006EA7A9 /* PBXTextBookmark */ = 6D35192B11DDD7D4006EA7A9 /* PBXTextBookmark */;
+			6D35192C11DDD7D4006EA7A9 /* PBXTextBookmark */ = 6D35192C11DDD7D4006EA7A9 /* PBXTextBookmark */;
+			6D35192D11DDD7D4006EA7A9 /* PBXTextBookmark */ = 6D35192D11DDD7D4006EA7A9 /* PBXTextBookmark */;
+			6D35193911DDD7E5006EA7A9 /* PBXTextBookmark */ = 6D35193911DDD7E5006EA7A9 /* PBXTextBookmark */;
+			6D35194211DDD829006EA7A9 /* PBXTextBookmark */ = 6D35194211DDD829006EA7A9 /* PBXTextBookmark */;
+			6D35194811DDD844006EA7A9 /* PBXTextBookmark */ = 6D35194811DDD844006EA7A9 /* PBXTextBookmark */;
+			6D35195011DDD85D006EA7A9 /* PBXTextBookmark */ = 6D35195011DDD85D006EA7A9 /* PBXTextBookmark */;
+			6D35195D11DDD891006EA7A9 /* PBXTextBookmark */ = 6D35195D11DDD891006EA7A9 /* PBXTextBookmark */;
+			6D35196111DDD8F6006EA7A9 /* PBXTextBookmark */ = 6D35196111DDD8F6006EA7A9 /* PBXTextBookmark */;
+			6D35196511DDDA96006EA7A9 /* PBXTextBookmark */ = 6D35196511DDDA96006EA7A9 /* PBXTextBookmark */;
+			6D35196811DDDAFE006EA7A9 /* PBXTextBookmark */ = 6D35196811DDDAFE006EA7A9 /* PBXTextBookmark */;
+			6D35196911DDDAFE006EA7A9 /* PBXTextBookmark */ = 6D35196911DDDAFE006EA7A9 /* PBXTextBookmark */;
+			6D35196C11DDDB41006EA7A9 /* PBXTextBookmark */ = 6D35196C11DDDB41006EA7A9 /* PBXTextBookmark */;
+			6D35196D11DDDB41006EA7A9 /* PBXTextBookmark */ = 6D35196D11DDDB41006EA7A9 /* PBXTextBookmark */;
+			6D35196E11DDDB41006EA7A9 /* PBXTextBookmark */ = 6D35196E11DDDB41006EA7A9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6D35184011DDCB6F006EA7A9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6D35182B11DDCB69006EA7A9 /* GalEncryptor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GalEncryptor;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	6D35184011DDCB6F006EA7A9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6D35184111DDCB6F006EA7A9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6D35192811DDD7D4006EA7A9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 6D35184311DDCBC8006EA7A9 /* EncryptionDictionary.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/miyabi/Documents/Works/Dev/iPhone/GalEncryptor/Project/GalEncryptor/EncryptionDictionary.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	6D35192911DDD7D4006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GalEncryptorViewController.h */;
+		name = "GalEncryptorViewController.h: 18";
+		rLen = 0;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 0;
+	};
+	6D35192A11DDD7D4006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GalEncryptorAppDelegate.h */;
+		name = "GalEncryptorAppDelegate.h: 23";
+		rLen = 20;
+		rLoc = 580;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	6D35192B11DDD7D4006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GalEncryptorAppDelegate.m */;
+		name = "GalEncryptorAppDelegate.m: 86";
+		rLen = 0;
+		rLoc = 2882;
+		rType = 0;
+		vrLen = 2094;
+		vrLoc = 0;
+	};
+	6D35192C11DDD7D4006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 74";
+		rLen = 0;
+		rLoc = 1712;
+		rType = 0;
+		vrLen = 1212;
+		vrLoc = 1085;
+	};
+	6D35192D11DDD7D4006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 74";
+		rLen = 0;
+		rLoc = 1712;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 1085;
+	};
+	6D35193911DDD7E5006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 74";
+		rLen = 0;
+		rLoc = 1712;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 1085;
+	};
+	6D35194211DDD829006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 83";
+		rLen = 0;
+		rLoc = 2075;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 1085;
+	};
+	6D35194811DDD844006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 83";
+		rLen = 0;
+		rLoc = 2075;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 1085;
+	};
+	6D35195011DDD85D006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 83";
+		rLen = 0;
+		rLoc = 2075;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 1085;
+	};
+	6D35195D11DDD891006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 81";
+		rLen = 0;
+		rLoc = 2007;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 1085;
+	};
+	6D35196111DDD8F6006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 175";
+		rLen = 0;
+		rLoc = 5094;
+		rType = 0;
+		vrLen = 926;
+		vrLoc = 3317;
+	};
+	6D35196511DDDA96006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 70";
+		rLen = 0;
+		rLoc = 1682;
+		rType = 0;
+		vrLen = 1243;
+		vrLoc = 1034;
+	};
+	6D35196811DDDAFE006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 70";
+		rLen = 0;
+		rLoc = 1682;
+		rType = 0;
+		vrLen = 1243;
+		vrLoc = 1034;
+	};
+	6D35196911DDDAFE006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GalEncryptorViewController.h */;
+		name = "GalEncryptorViewController.h: 29";
+		rLen = 0;
+		rLoc = 816;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 0;
+	};
+	6D35196C11DDDB41006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GalEncryptorViewController.h */;
+		name = "GalEncryptorViewController.h: 29";
+		rLen = 44;
+		rLoc = 791;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 0;
+	};
+	6D35196D11DDDB41006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 215";
+		rLen = 0;
+		rLoc = 5170;
+		rType = 0;
+		vrLen = 884;
+		vrLoc = 4644;
+	};
+	6D35196E11DDDB41006EA7A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GalEncryptorViewController.m */;
+		name = "GalEncryptorViewController.m: 223";
+		rLen = 0;
+		rLoc = 5368;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 4674;
+	};
+}
